@@ -1,0 +1,63 @@
+{
+  "Brands": [
+    {
+      "brand1": "Lg",
+      "brand2": "Samsung",
+      "brand3": "Xiaomi",
+      "brand4": "Huawei",
+      "brand5": "Honor",
+      "brand6": "Vivo",
+      "brand7": "Apple",
+      "brand8": "Infinx",
+      "brand9": "Oppo",
+      "brand10": "Hansa",
+      "brand11": "Hisense",
+      "brand12": "Tefal",
+      "brand13": "Delonghi",
+      "brand14": "Moulinex",
+      "brand15": "Rowenta",
+      "brand16": "Philips",
+      "brand17": "Karcher",
+      "brand18": "Krups",
+      "brand19": "Braun",
+      "brand20": "Yandex",
+      "brand21": "Kenwood",
+      "brand22": "Philips"
+    }
+  ],
+  "Cattegory": [
+    {
+      "catygory1": "Telefonlar",
+      "catygory2": "Hovo sovutgich",
+      "catygory3": "Changyutgich",
+      "catygory4": "Muzlatgich",
+      "catygory5": "Kompyuter",
+      "catygory6": "Televizor",
+      "catygory7": "Kofe mashina",
+      "catygory8": "Kiryuvish mashina",
+      "catygory9": "Fen",
+      "catygory10": "Planshet"
+    }
+  ],
+  "Products": [
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUENscPbGJ-VPONgBqOeyAJ0X5GrmzFdzeAg&s",
+      "title": "Смартфон Xiaomi Redmi Note 13 6/128GB Midnight Black",
+      "costMonth1": "oт 0 UZS / 12 мес.",
+      "costMonth2": "oт 0 UZS / 24 мес.",
+      "cost": "0 UZS",
+      "cattegory": "Telefonlar",
+      "brand": "Xiaomi"
+    }
+  ],
+  "Combo": [
+    {
+      "img": "https://tumba.kz/uploads/images2017/%D1%80%D0%B5%D0%BA%2025102017%20(2).jpg",
+      "title": "Combo x3",
+      "oldprice": "18.000.000",
+      "newprice": "14.900.000",
+      "button1": "new",
+      "button2": "buy"
+    }
+  ]
+}
