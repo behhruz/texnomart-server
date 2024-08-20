@@ -133,13 +133,28 @@
   ],
   "Products": [
     {
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUENscPbGJ-VPONgBqOeyAJ0X5GrmzFdzeAg&s",
+      "img": "https://mi-store.uz/wp-content/uploads/2024/03/redmi20note201320global.png",
       "title": "Смартфон Xiaomi Redmi Note 13 6/128GB Midnight Black",
       "costMonth1": "oт 0 UZS / 12 мес.",
       "costMonth2": "oт 0 UZS / 24 мес.",
       "cost": "0 UZS",
       "cattegory": "Telefonlar",
-      "brand": "Xiaomi"
+      "brand": "Xiaomi",
+      "isSell": "Янги маҳсулотлар"
+    }
+  ],
+  "isSelled": [
+    {
+      "isSelledd": "Янги маҳсулотлар"
+    },
+    {
+      "isSelledd": "Хит савдо"
+    },
+    {
+      "isSelledd": "Тўпламлар"
+    },
+    {
+      "isSelledd": "Янгиликлар ва блоглар"
     }
   ],
   "Combo": [
